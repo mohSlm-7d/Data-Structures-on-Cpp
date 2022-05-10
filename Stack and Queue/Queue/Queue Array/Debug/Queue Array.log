@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\M7md_2\Desktop\PSUT\Second Year 20-21\Summer Semester\Data Structures And Introduction To Algorithms\Codes\Stack and Queue\Queue\Queue Array\Main.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\M7md_2\Desktop\PSUT\Second Year 20-21\Summer Semester\Data Structures And Introduction To Algorithms\Codes\Stack and Queue\Queue\Queue Array\QueueArray.h(221,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\M7md_2\Desktop\PSUT\Second Year 20-21\Summer Semester\Data Structures And Introduction To Algorithms\Codes\Stack and Queue\Queue\Queue Array\QueueArray.h(220): message : while compiling class template member function 'void QueueArray<int>::memOpt(void)'
+C:\Users\M7md_2\Desktop\PSUT\Second Year 20-21\Summer Semester\Data Structures And Introduction To Algorithms\Codes\Stack and Queue\Queue\Queue Array\Main.cpp(23): message : see reference to function template instantiation 'void QueueArray<int>::memOpt(void)' being compiled
+C:\Users\M7md_2\Desktop\PSUT\Second Year 20-21\Summer Semester\Data Structures And Introduction To Algorithms\Codes\Stack and Queue\Queue\Queue Array\Main.cpp(5): message : see reference to class template instantiation 'QueueArray<int>' being compiled
+  Queue Array.vcxproj -> C:\Users\M7md_2\Desktop\PSUT\Second Year 20-21\Summer Semester\Data Structures And Introduction To Algorithms\Codes\Stack and Queue\Queue\Queue Array\Debug\Queue Array.exe
