@@ -1,0 +1,28 @@
+bool SLL::deleteNode(int x) {
+	if (isEmpty())
+		return false;
+	if (h->data == x) {
+		deleteFromHead();
+	}
+	if (t->data == x) {
+		deleteFromTail();
+	}
+	Node* p = h;
+	Node* c = nullptr;
+	while (p != nullptr) {
+		cout << "H";
+		this->print();
+		cout << "p->data: " << p->data;
+		if (p->data == x) {
+			c->next = p->next;
+			Node* k = p;
+			c = nullptr;
+			p = p->next;
+			delete k;
+			continue;
+		}
+		c = p;
+		p = p->next;
+	}
+	
+}
